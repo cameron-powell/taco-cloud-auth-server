@@ -1,0 +1,2 @@
+## Testing
+- `http://localhost:9000/oauth2/authorize?response_type=code&client_id=taco-admin-client&redirect_uri=http%3A%2F%2F127.0.0.1%3A9090%2Flogin%2Foauth2%2Fcode%2Ftaco-admin-client&scope=writeIngredients%20deleteIngredients`
